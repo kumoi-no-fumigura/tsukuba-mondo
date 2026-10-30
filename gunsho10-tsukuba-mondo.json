@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsukuba-mondo",
  "yomi": "つくばもんどう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "連歌論書（問答体）",
+  "era": "応安5年（1372）以前",
+  "author": "二条良基",
+  "desc": "二条良基が、筑波から来たという老人との問答の形で、連歌の起源と歴史、句の心得を説いた連歌論。奥に応安5年の書写を記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -179,6 +184,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:23:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
